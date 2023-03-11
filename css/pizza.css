@@ -1,0 +1,39 @@
+/* h1{
+    color: red;
+    background-color: black;
+}*/
+/* Tag based seletors */
+h3{
+    background: blue;
+    font-size: 100px;
+}
+p{
+    color: blue;
+}
+ h1:hover{
+font-size: 80px;
+}
+
+/* class based selectors */
+.pizza{
+    background-color: brown;
+}
+.pizza:hover{
+    background-color: blueviolet;
+}
+.tomato{
+    background-color: green;
+}
+.first-line{
+    color: green;
+}
+.circular{
+    border-radius: 50%;
+}
+
+ /* Id based selectors */
+
+ #main-heading{
+    font-size: 48px;
+    color: darkolivegreen   ;
+ }
